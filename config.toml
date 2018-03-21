@@ -1,4 +1,23 @@
+# Site settings
 baseURL = "http://portfolios.rednegra.net/"
 languageCode = "en-us"
-title = "Red carto & gráfica"
+DefaultContentLanguage = "en"
+# defaultContentLanguageInSubdir = "true"
 theme = "cartografica"
+
+title = "Red carto & gráfica"
+
+[params]
+
+  # Link custom assets relative to /static
+  #custom_css = ["css/custom.css"]
+  #custom_js  = []
+  #favicon    = "favicon.ico"
+
+[languages]
+[languages.en]
+
+  # Provide your metadata here.
+  name = "Red carto & gráfica"
+  description = "artists and cartographers associated"
+  author = "Sylvain Lesage"
