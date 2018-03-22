@@ -6,8 +6,12 @@ draft: false
 personCard:
   imgname: "fil"
   name: "Philippe Rivière"
-  twitter: "recifs"
-  web: "http://illisible.net/"
+  web: ""
+  social:
+  - icon: "fa-twitter"
+    url: "https://twitter/recifs"
+  - icon: "fa-link"
+    url: "http://illisible.net/"
 
 cards:
 
