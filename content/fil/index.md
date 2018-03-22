@@ -1,11 +1,13 @@
 ---
 title: "Fil"
 #slug: "fil"
-image: "/img/fil/fil.jpg"
-imageAlt: "Fil"
-twitter: "recifs"
-web: "http://illisible.net/"
 draft: false
+
+personCard:
+  imgname: "fil"
+  name: "Philippe Rivière"
+  twitter: "recifs"
+  web: "http://illisible.net/"
 
 cards:
 
@@ -24,4 +26,6 @@ resources:
   name: "visionscarto"
 - src: "images/bas.png"
   name: "bas"
+- src: "images/fil.jpg"
+  name: "fil"
 ---
