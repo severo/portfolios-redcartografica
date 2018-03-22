@@ -9,9 +9,11 @@ personCard:
   web: ""
   social:
   - icon: "fa-twitter"
-    url: "https://twitter/recifs"
+    url: "https://twitter.com/recifs"
   - icon: "fa-link"
     url: "http://illisible.net/"
+  - icon: "fa-quote-right"
+    url: "https://seenthis.net/people/fil"
 
 cards:
 
