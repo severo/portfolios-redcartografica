@@ -15,10 +15,10 @@ personCard:
 
 cards:
 
-- title: "GeoElectoral"
-  url: "http://geoelectoral.gob.bo/"
-  description: "An historical atlas of Bolivian elections"
-  imgname: "geoelectoral"
+- title: "Python notebooks"
+  url: "https://github.com/severo/notebook_banderazo/blob/master/banderazo.ipynb"
+  description: "Some experiments using Python, Jupyter, GeoPandas"
+  imgname: "jupyter"
 
 - title: "RIPE Atlas in Bolivia"
   url: "https://atlas.tecnologia.bo/proyectos/"
@@ -29,10 +29,10 @@ cards:
   url: "#"
   description: "If the image is missing, we include a placeholder."
 
-- title: "Python notebooks"
-  url: "https://github.com/severo/notebook_banderazo/blob/master/banderazo.ipynb"
-  description: "Som experiments using Python, Jupyter, GeoPandas"
-  imgname: "jupyter"
+- title: "GeoElectoral"
+  url: "http://geoelectoral.gob.bo/"
+  description: "An historical atlas of Bolivian elections"
+  imgname: "geoelectoral"
 
 resources:
 - src: "images/geoelectoral.jpg"
