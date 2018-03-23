@@ -3,7 +3,7 @@ baseURL = "http://portfolios.rednegra.net/"
 languageCode = "en-us"
 DefaultContentLanguage = "en"
 # defaultContentLanguageInSubdir = "true"
-theme = "cartografica"
+theme = "theme-hugo-redcartografica"
 
 title = "Red carto & gráfica"
 
