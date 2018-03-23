@@ -6,7 +6,6 @@ draft: false
 personCard:
   imgname: "fil"
   name: "Philippe Rivière"
-  web: ""
   social:
   - icon: "fa-twitter"
     url: "https://twitter.com/recifs"
@@ -17,15 +16,15 @@ personCard:
 
 cards:
 
-- imgname: "visionscarto"
-  title: "Visions carto"
+- title: "Visions carto"
   url: "http://visionscarto.net/"
   description: "A small independent research network on maps and representations"
+  imgname: "visionscarto"
 
-- imgname: "bas"
-  title: "Interactive map"
+- title: "Interactive map"
   url: "https://thebulletin.org/global-nuclear-power-database"
   description: "Interactive map for the Bulletin of the Atomic Scientists"
+  imgname: "bas"
 
 resources:
 - src: "images/visionscarto.jpg"
