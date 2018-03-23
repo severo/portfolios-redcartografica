@@ -12,6 +12,8 @@ personCard:
     url: "http://rednegra.net/"
   - icon: "fa-quote-right"
     url: "https://seenthis.net/people/severo"
+  - icon: "fa-mastodon"
+    url: "https://mamot.fr/@severo_bo"
 
 cards:
 
