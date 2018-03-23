@@ -7,7 +7,7 @@
 To deploy the website locally:
 
 ```
-git clone --recurse-submodules https://framagit.org/severo/portfolios.git
-cd portfolios
+git clone --recurse-submodules https://github.com/severo/portfolios-redcartografica.git
+cd portfolios-redcartografica
 hugo server -D
 ```
