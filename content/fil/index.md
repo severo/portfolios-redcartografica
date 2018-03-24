@@ -59,6 +59,11 @@ cards:
   description: "Interactive infographics for the Bulletin of the Atomic Scientists (with WNISR)"
   imgname: "bulletin-atomic"
 
+- title: "Base Maps / Fonds de cartes"
+  url: "https://visionscarto.net/fonds-de-cartes"
+  description: "Libre/Open Source base maps"
+  imgname: "fonds-de-cartes"
+
 - title: "AFP Toolkit"
   url: "https://www.afp.com/"
   description: "Internal tool for designing infographics — Agence France Presse"
@@ -122,6 +127,8 @@ resources:
   name: "paper-planets"
 - src: "images/afp.jpg"
   name: "afp"
+- src: "images/fonds-de-cartes.png"
+  name: "fonds-de-cartes"
 - src: "images/madmeg.png"
   name: "madmeg"
 - src: "images/mega-ships.png"
