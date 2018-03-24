@@ -39,6 +39,11 @@ cards:
   description: "Editorial support — ICIJ"
   imgname: "panama-papers"
 
+- title: "Paper Planets"
+  url: "https://visionscarto.net/paper-planets-and-how-to-make-them"
+  description: "Paper toys for cartographic workshops"
+  imgname: "paper-planets"
+
 - title: "Delizie"
   url: "http://madmeg.org/delizie/"
   description: "10+ web apps for madmeg"
@@ -54,15 +59,20 @@ cards:
   description: "Interactive infographics for the Bulletin of the Atomic Scientists (with WNISR)"
   imgname: "bulletin-atomic"
 
-- title: "Fort McMurray and the Beast"
-  url: "http://fortmacandthebeast.com/"
-  description: "Interactive map for David Dufresne"
-  imgname: "fortmacmurray"
+- title: "AFP Toolkit"
+  url: "https://www.afp.com/"
+  description: "Internal tool for designing infographics — Agence France Presse"
+  imgname: "afp"
 
 - title: "The Impact of Mega-Ships"
   url: "http://oecdinsights.org/2015/06/22/the-impact-of-mega-ships/"
   description: "Maps & graphics for the International Transport Forum (ITF/OECD) - with Visionscarto"
   imgname: "mega-ships"
+
+- title: "Fort McMurray and the Beast"
+  url: "http://fortmacandthebeast.com/"
+  description: "Interactive map for David Dufresne"
+  imgname: "fortmacmurray"
 
 - title: "From Cholera to Zika"
   url: "https://visionscarto.net/from-cholera-to-zika"
@@ -96,7 +106,7 @@ cards:
 
 - title: "D3 blocks"
   url: "https://bl.ocks.org/Fil"
-  description: "Visual & algo research with D3.js, t-SNE, etc."
+  description: "Visual & algorithmic research with D3.js, t-SNE, etc."
   imgname: "blocks"
 
 
@@ -108,6 +118,10 @@ resources:
   name: "bulletin-atomic"
 - src: "images/map-projections.png"
   name: "map-projections"
+- src: "images/paper-planets.jpg"
+  name: "paper-planets"
+- src: "images/afp.jpg"
+  name: "afp"
 - src: "images/madmeg.png"
   name: "madmeg"
 - src: "images/mega-ships.png"
