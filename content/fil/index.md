@@ -9,7 +9,7 @@ personCard:
   social:
   - icon: "fa-twitter"
     url: "https://twitter.com/recifs"
-  - icon: "fa-link"
+  - icon: "fa-social-home"
     url: "http://illisible.net/"
   - icon: "fa-quote-right"
     url: "https://seenthis.net/people/fil"
