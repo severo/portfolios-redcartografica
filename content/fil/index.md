@@ -27,7 +27,7 @@ cards:
 
 - title: "Map projections"
   url: "https://beta.observablehq.com/@fil/polyhedral-projections-with-d3-geo-polygon"
-  description: "Research on cartographic projections for D3.js"
+  description: "Research on polyhedral cartographic projections for D3.js"
   imgname: "map-projections"
 
 - title: "Delizie"
@@ -42,7 +42,7 @@ cards:
 
 - title: "The Panama Papers"
   url: "https://www.icij.org/investigations/panama-papers/"
-  description: "Editorial support — ICIJ"
+  description: "Editorial support — African Network of Centers for Investigative Reporting & ICIJ"
   imgname: "panama-papers"
 
 - title: "Paper Planets"
@@ -52,12 +52,12 @@ cards:
 
 - title: "Global Nuclear Power Database"
   url: "https://thebulletin.org/global-nuclear-power-database"
-  description: "Interactive infographics for the Bulletin of the Atomic Scientists (with WNISR)"
+  description: "Interactive for the Bulletin of the Atomic Scientists (with WNISR)"
   imgname: "bulletin-atomic"
 
-- title: "Base Maps / Fonds de cartes"
+- title: "Fonds de cartes"
   url: "https://visionscarto.net/fonds-de-cartes"
-  description: "Libre/Open Source base maps"
+  description: "A collection of free/libre base maps for students, designers…"
   imgname: "fonds-de-cartes"
 
 - title: "AFP Toolkit"
@@ -67,12 +67,17 @@ cards:
 
 - title: "The Impact of Mega-Ships"
   url: "http://oecdinsights.org/2015/06/22/the-impact-of-mega-ships/"
-  description: "Maps & graphics for the International Transport Forum (ITF/OECD) - with Visionscarto"
+  description: "Infographics for the International Transport Forum - w/ Visionscarto"
   imgname: "mega-ships"
+
+- title: "Bertin projection"
+  url: "https://visionscarto.net/bertin-projection-1953"
+  description: "A formula for Jacques Bertin’s projection (1953), used in D3.js, Khartis, Magrit…"
+  imgname: "bertin1953"
 
 - title: "Fatal Extraction"
   url: "https://www.icij.org/investigations/fatal-extraction/"
-  description: "Editorial support — ICIJ"
+  description: "Editorial support — African Network of Centers for Investigative Reporting & ICIJ"
   imgname: "fatal-extraction"
 
 - title: "Bastamag"
@@ -102,7 +107,7 @@ cards:
 
 - title: "Maritime Piracy"
   url: "https://www.unitar.org/unosat/piracy"
-  description: "Report (research, writing, data analysis, maps & graphics) — UNOSAT - with Visionscarto"
+  description: "Report (research, data analysis, maps & graphics) — UNOSAT w/ Visionscarto"
   imgname: "maritime-piracy"
 
 - title: "Le Monde diplomatique (1997-2014)"
@@ -151,6 +156,8 @@ resources:
   name: "wnisr"
 - src: "images/fatal-extraction.png"
   name: "fatal-extraction"
+- src: "images/bertin1953.png"
+  name: "bertin1953"
 - src: "images/panama-papers.png"
   name: "panama-papers"
 - src: "images/maritime-piracy.png"
