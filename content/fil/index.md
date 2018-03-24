@@ -25,17 +25,22 @@ cards:
   description: "An independent research network on maps and representations"
   imgname: "visionscarto"
 
-- title: "Deep Sea Mining"
-  url: "http://inhabitants-tv.org/"
-  description: "Animated map for Inhabitants —  Triennal exhibition, New Museum, NYC"
-  imgname: "deep-sea-mining"
-
 - title: "Map projections"
   url: "https://beta.observablehq.com/@fil/polyhedral-projections-with-d3-geo-polygon"
   description: "Research on cartographic projections for D3.js"
   imgname: "map-projections"
 
-- title: "Panama Papers"
+- title: "Delizie"
+  url: "http://madmeg.org/delizie/"
+  description: "10+ web apps for madmeg"
+  imgname: "madmeg"
+
+- title: "Deep Sea Mining"
+  url: "http://inhabitants-tv.org/"
+  description: "Animated map for Inhabitants —  Triennal exhibition, New Museum, NYC"
+  imgname: "deep-sea-mining"
+
+- title: "The Panama Papers"
   url: "https://www.icij.org/investigations/panama-papers/"
   description: "Editorial support — ICIJ"
   imgname: "panama-papers"
@@ -44,16 +49,6 @@ cards:
   url: "https://visionscarto.net/paper-planets-and-how-to-make-them"
   description: "Paper toys for cartographic workshops"
   imgname: "paper-planets"
-
-- title: "Delizie"
-  url: "http://madmeg.org/delizie/"
-  description: "10+ web apps for madmeg"
-  imgname: "madmeg"
-
-- title: "Fatal Extraction"
-  url: "https://www.icij.org/investigations/fatal-extraction/"
-  description: "Editorial support — ICIJ"
-  imgname: "fatal-extraction"
 
 - title: "Global Nuclear Power Database"
   url: "https://thebulletin.org/global-nuclear-power-database"
@@ -74,6 +69,11 @@ cards:
   url: "http://oecdinsights.org/2015/06/22/the-impact-of-mega-ships/"
   description: "Maps & graphics for the International Transport Forum (ITF/OECD) - with Visionscarto"
   imgname: "mega-ships"
+
+- title: "Fatal Extraction"
+  url: "https://www.icij.org/investigations/fatal-extraction/"
+  description: "Editorial support — ICIJ"
+  imgname: "fatal-extraction"
 
 - title: "Bastamag"
   url: "https://www.bastamag.net/"
