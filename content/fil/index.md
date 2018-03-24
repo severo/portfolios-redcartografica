@@ -130,6 +130,10 @@ cards:
   description: "More tinkering with D3.js, t-SNE, etc."
   imgname: "blocks"
 
+- title: "Your project"
+  url: "mailto:philippe.riviere@visionscarto.net"
+  description: "Interested? Want to work with me? Let’s talk"
+
 
 
 resources:
