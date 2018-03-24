@@ -7,18 +7,20 @@ personCard:
   imgname: "fil"
   name: "Philippe Rivière"
   social:
-  - icon: "fa-twitter"
-    url: "https://twitter.com/recifs"
   - icon: "fa-social-home"
     url: "http://illisible.net/"
+  - icon: "fa-github"
+    url: "https://github.com/fil"
   - icon: "fa-quote-right"
     url: "https://seenthis.net/people/fil"
+  - icon: "fa-twitter"
+    url: "https://twitter.com/recifs"
 
 cards:
 
-- title: "Visions carto"
-  url: "http://visionscarto.net/"
-  description: "A small independent research network on maps and representations"
+- title: "Visionscarto"
+  url: "https://visionscarto.net/"
+  description: "An independent research network on maps and representations"
   imgname: "visionscarto"
 
 - title: "Interactive map"
