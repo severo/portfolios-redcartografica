@@ -6,10 +6,11 @@ draft: false
 personCard:
   imgname: "fil"
   name: "Philippe Rivière"
-  description: "Journalist, programmer, cartographer"
+  short: "Journalist, coder, cartographer"
+  location: "Le Gué du Loir, France"
   social:
-  - icon: "fa-address-book-o"
-    url: "http://illisible.net/"
+  - icon: "fa-envelope-o"
+    url: "mailto:philippe.riviere@visionscarto.net"
   - icon: "fa-github"
     url: "https://github.com/fil"
   - icon: "fa-quote-right"
@@ -74,6 +75,11 @@ cards:
   description: "Maps & graphics for the International Transport Forum (ITF/OECD) - with Visionscarto"
   imgname: "mega-ships"
 
+- title: "Bastamag"
+  url: "https://www.bastamag.net/"
+  description: "Data visualisations for Bastamag.net"
+  imgname: "basta-mag-enarques"
+
 - title: "Fort McMurray and the Beast"
   url: "http://fortmacandthebeast.com/"
   description: "Interactive map for David Dufresne"
@@ -127,6 +133,8 @@ resources:
   name: "paper-planets"
 - src: "images/afp.jpg"
   name: "afp"
+- src: "images/basta-mag-enarques.png"
+  name: "basta-mag-enarques"
 - src: "images/fonds-de-cartes.png"
   name: "fonds-de-cartes"
 - src: "images/madmeg.png"
