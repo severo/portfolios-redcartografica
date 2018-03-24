@@ -1,13 +1,14 @@
 ---
-title: "Fil"
+title: "Philippe Rivière"
 #slug: "fil"
 draft: false
 
 personCard:
   imgname: "fil"
   name: "Philippe Rivière"
+  description: "Journalist, programmer, cartographer"
   social:
-  - icon: "fa-social-home"
+  - icon: "fa-address-book-o"
     url: "http://illisible.net/"
   - icon: "fa-github"
     url: "https://github.com/fil"
@@ -23,16 +24,116 @@ cards:
   description: "An independent research network on maps and representations"
   imgname: "visionscarto"
 
-- title: "Interactive map"
+- title: "Deep Sea Mining"
+  url: "http://inhabitants-tv.org/"
+  description: "Animated map for Inhabitants —  Triennal exhibition, New Museum, NYC"
+  imgname: "deep-sea-mining"
+
+- title: "Map projections"
+  url: "https://beta.observablehq.com/@fil/polyhedral-projections-with-d3-geo-polygon"
+  description: "Research on cartographic projections for D3.js"
+  imgname: "map-projections"
+
+- title: "Panama Papers"
+  url: "https://www.icij.org/investigations/panama-papers/"
+  description: "Editorial support — ICIJ"
+  imgname: "panama-papers"
+
+- title: "Delizie"
+  url: "http://madmeg.org/delizie/"
+  description: "10+ web apps for madmeg"
+  imgname: "madmeg"
+
+- title: "Fatal Extraction"
+  url: "https://www.icij.org/investigations/fatal-extraction/"
+  description: "Editorial support — ICIJ"
+  imgname: "fatal-extraction"
+
+- title: "Global Nuclear Power Database"
   url: "https://thebulletin.org/global-nuclear-power-database"
-  description: "Interactive map for the Bulletin of the Atomic Scientists"
-  imgname: "bas"
+  description: "Interactive infographics for the Bulletin of the Atomic Scientists (with WNISR)"
+  imgname: "bulletin-atomic"
+
+- title: "Fort McMurray and the Beast"
+  url: "http://fortmacandthebeast.com/"
+  description: "Interactive map for David Dufresne"
+  imgname: "fortmacmurray"
+
+- title: "The Impact of Mega-Ships"
+  url: "http://oecdinsights.org/2015/06/22/the-impact-of-mega-ships/"
+  description: "Maps & graphics for the International Transport Forum (ITF/OECD) - with Visionscarto"
+  imgname: "mega-ships"
+
+- title: "From Cholera to Zika"
+  url: "https://visionscarto.net/from-cholera-to-zika"
+  description: "Maps for Sonia Shah’s book “Pandemic”"
+  imgname: "soniashah"
+
+- title: "Chaire IDIS"
+  url: "http://chaire-idis.fr/lecosysteme/"
+  description: "Interactive map of the design ecosystem in Champagne - with Véronique Maire & Olaf Avenati"
+  imgname: "chaire-idis"
+
+- title: "World Nuclear Industry Status Report"
+  url: "https://www.worldnuclearreport.org/"
+  description: "General collaboration - website & data visualisations"
+  imgname: "wnisr"
+
+- title: "Maritime Piracy"
+  url: "https://www.unitar.org/unosat/piracy"
+  description: "Report (research, writing, data analysis, maps & graphics) — UNOSAT - with Visionscarto"
+  imgname: "maritime-piracy"
+
+- title: "Le Monde diplomatique (1997-2014)"
+  url: "https://www.monde-diplomatique.fr/"
+  description: "Website, writing, editing, reporting, member of the editorial board."
+  imgname: "mdiplo"
+
+- title: "SPIP"
+  url: "http://www.spip.net/"
+  description: "Système de publication sur l’Internet."
+  imgname: "spip"
+
+- title: "D3 blocks"
+  url: "https://bl.ocks.org/Fil"
+  description: "Visual & algo research with D3.js, t-SNE, etc."
+  imgname: "blocks"
+
+
 
 resources:
 - src: "images/visionscarto.jpg"
   name: "visionscarto"
-- src: "images/bas.png"
-  name: "bas"
+- src: "images/bulletin-atomic.png"
+  name: "bulletin-atomic"
+- src: "images/map-projections.png"
+  name: "map-projections"
+- src: "images/madmeg.png"
+  name: "madmeg"
+- src: "images/mega-ships.png"
+  name: "mega-ships"
+- src: "images/fortmacmurray.png"
+  name: "fortmacmurray"
+- src: "images/soniashah.png"
+  name: "soniashah"
+- src: "images/chaire-idis.png"
+  name: "chaire-idis"
+- src: "images/wnisr.png"
+  name: "wnisr"
+- src: "images/fatal-extraction.png"
+  name: "fatal-extraction"
+- src: "images/panama-papers.png"
+  name: "panama-papers"
+- src: "images/maritime-piracy.png"
+  name: "maritime-piracy"
+- src: "images/deep-sea-mining.png"
+  name: "deep-sea-mining"
+- src: "images/mdiplo.png"
+  name: "mdiplo"
+- src: "images/blocks.png"
+  name: "blocks"
+- src: "images/spip.png"
+  name: "spip"
 - src: "images/fil.jpg"
   name: "fil"
 ---
