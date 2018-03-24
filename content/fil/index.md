@@ -120,9 +120,14 @@ cards:
   description: "Système de publication sur l’Internet."
   imgname: "spip"
 
+- title: "Observable notebooks"
+  url: "https://beta.observablehq.com/@fil"
+  description: "Visual & algorithmic research, literate programming."
+  imgname: "observable"
+
 - title: "D3 blocks"
   url: "https://bl.ocks.org/Fil"
-  description: "Visual & algorithmic research with D3.js, t-SNE, etc."
+  description: "More tinkering with D3.js, t-SNE, etc."
   imgname: "blocks"
 
 
@@ -168,6 +173,8 @@ resources:
   name: "mdiplo"
 - src: "images/blocks.png"
   name: "blocks"
+- src: "images/observable.png"
+  name: "observable"
 - src: "images/spip.png"
   name: "spip"
 - src: "images/fil.jpg"
