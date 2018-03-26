@@ -20,12 +20,12 @@ cards:
 - title: "Python notebooks"
   url: "https://github.com/severo/notebook_banderazo/blob/master/banderazo.ipynb"
   description: "Some experiments using Python, Jupyter, GeoPandas"
-  imgname: "jupyter"
+  imgname: "jupyter.png"
 
 - title: "RIPE Atlas in Bolivia"
   url: "https://atlas.tecnologia.bo/proyectos/"
   description: "Monitoring of the RIPE Atlas probes, classifying by AS number"
-  imgname: "atlas"
+  imgname: "ripe.png"
 
 - title: "Example of missing image"
   url: "#"
@@ -34,13 +34,6 @@ cards:
 - title: "GeoElectoral"
   url: "http://geoelectoral.gob.bo/"
   description: "An historical atlas of Bolivian elections"
-  imgname: "geoelectoral"
+  imgname: "geoelectoral.jpg"
 
-resources:
-- src: "images/geoelectoral.jpg"
-  name: "geoelectoral"
-- src: "images/ripe.png"
-  name: "atlas"
-- src: "images/jupyter.png"
-  name: "jupyter"
 ---
