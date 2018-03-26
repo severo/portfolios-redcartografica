@@ -1,5 +1,5 @@
 # Site settings
-baseURL = "https://portfolios-redcartografica.rednegra.net/"
+baseURL = "https://portfolios.rednegra.net/"
 languageCode = "en-us"
 DefaultContentLanguage = "en"
 # defaultContentLanguageInSubdir = "true"
