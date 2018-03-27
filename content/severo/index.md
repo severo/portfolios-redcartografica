@@ -32,13 +32,18 @@ cards:
   description: "Monitoring of the RIPE Atlas probes, classifying by AS number"
   imgname: "ripe.png"
 
-- title: "Example of missing image"
-  url: "#"
-  description: "If the image is missing, we include a placeholder."
-
 - title: "GeoElectoral"
   url: "http://geoelectoral.gob.bo/"
   description: "An historical atlas of Bolivian elections"
   imgname: "geoelectoral.jpg"
+
+- title: "Personal site"
+  url: "https://rednegra.net/sylvainlesage/en/"
+  description: "More details on the services I provide."
+  imgname: "sylvainlesage.png"
+
+- title: "Your project"
+  url: "mailto:severo@rednegra.net"
+  description: "Interested? Want to work with me? Let’s talk"
 
 ---
