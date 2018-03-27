@@ -11,7 +11,7 @@ draft: false
 personCard:
   imgname: "fil.jpg"
   name: "Philippe Rivière"
-  short: "Journalist, coder, cartographer"
+  short: "Journalism, code, cartography"
   location: "Le Gué du Loir, France"
   mail: "philippe.riviere@visionscarto.net"
   github: "fil"
