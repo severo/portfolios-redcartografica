@@ -9,16 +9,16 @@ draft: false
 
 personCard:
   name: "Sylvain Lesage"
+  short: "Maps and code"
+  location: "La Paz, Bolivia"
+  mail: "severo@rednegra.net"
+  github: "severo"
+  seenthis: "severo"
   twitter: "severo_bo"
+  mastodon: "https://mamot.fr/@severo_bo"
   social:
-  - icon: "fa-twitter"
-    url: "https://twitter.com/severo_bo"
-  - icon: "fa-link"
-    url: "http://rednegra.net/"
-  - icon: "fa-quote-right"
-    url: "https://seenthis.net/people/severo"
-  - icon: "fa-mastodon"
-    url: "https://mamot.fr/@severo_bo"
+  #- icon: "fa-link"
+  #  url: "http://rednegra.net/"
 
 cards:
 

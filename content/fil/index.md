@@ -13,16 +13,10 @@ personCard:
   name: "Philippe Rivière"
   short: "Journalist, coder, cartographer"
   location: "Le Gué du Loir, France"
+  mail: "philippe.riviere@visionscarto.net"
+  github: "fil"
+  seenthis: "fil"
   twitter: "recifs"
-  social:
-  - icon: "fa-envelope-o"
-    url: "mailto:philippe.riviere@visionscarto.net"
-  - icon: "fa-github"
-    url: "https://github.com/fil"
-  - icon: "fa-quote-right"
-    url: "https://seenthis.net/people/fil"
-  - icon: "fa-twitter"
-    url: "https://twitter.com/recifs"
 
 cards:
 
