@@ -85,6 +85,11 @@ cards:
   description: "Data visualisations for Bastamag.net"
   imgname: "basta-mag-enarques.png"
 
+- title: "Environmental Crime / Waste Trafficking"
+  url: "http://www.grida.no/activities/277"
+  description: "Data collection & analysis for GRIDA/UNEP (internal report)"
+  imgname: "grida-ewaste.png"
+
 - title: "Fort McMurray and the Beast"
   url: "http://fortmacandthebeast.com/"
   description: "Interactive map for David Dufresne"
