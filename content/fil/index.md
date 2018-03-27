@@ -1,5 +1,10 @@
 ---
 title: "Philippe Rivière"
+description: "Journalist, coder, cartographer"
+locale: "en"
+publishDate: 2018-03-24T09:45:05-04:00
+lastMod: 2018-03-26T18:32:00-04:00
+
 #slug: "fil"
 draft: false
 
@@ -8,6 +13,7 @@ personCard:
   name: "Philippe Rivière"
   short: "Journalist, coder, cartographer"
   location: "Le Gué du Loir, France"
+  twitter: "recifs"
   social:
   - icon: "fa-envelope-o"
     url: "mailto:philippe.riviere@visionscarto.net"

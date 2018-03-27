@@ -4,11 +4,11 @@ languageCode = "en-us"
 DefaultContentLanguage = "en"
 # defaultContentLanguageInSubdir = "true"
 theme = "theme-hugo-redcartografica"
-
 title = "Red carto & gráfica"
 
 [params]
 
+  #twitter = "redcartografica"
   # Link custom assets relative to /static
   #custom_css = ["css/custom.css"]
   #custom_js  = []

@@ -1,10 +1,15 @@
 ---
 title: "Severo"
+description: ""
+locale: "en"
+publishDate: 2018-03-24T09:45:05-04:00
+lastMod: 2018-03-26T18:32:00-04:00
 #slug: "severo"
 draft: false
 
 personCard:
   name: "Sylvain Lesage"
+  twitter: "severo_bo"
   social:
   - icon: "fa-twitter"
     url: "https://twitter.com/severo_bo"
